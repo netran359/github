@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for  kosmik DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>New Joining</h1>
+    <p>Please fill the application</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> SUCCESSFULLY </h1>
+   <h1> JOB DONE !!!! </h1>
 
   
 </form>
